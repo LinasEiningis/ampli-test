@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Amperce",
+    "description": "Sample application for e-commerce",
+    "version": "c8lfxwh8",
+    "id": "cl1122jdr12048501s6doqhu53z",
+    "url": "https://app.amplication.com/cl1122jdr12048501s6doqhu53z",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1122jdr12048501s6doqhu53z",
+      "authProvider": "Jwt"
+    }
+  }
+}
